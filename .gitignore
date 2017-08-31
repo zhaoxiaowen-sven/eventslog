@@ -1,0 +1,9 @@
+/.idea
+__pycache__
+eventslog
+log
+unzip
+zip
+config
+report
+*.db
